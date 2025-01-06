@@ -11,8 +11,8 @@ pytorch 1.13.0
 CUDA 11.6
 
 **Datasets**
-1. Please Download the following data [NOCS](https://github.com/hughw19/NOCS_CVPR2019).
-2. Run data_preprocess.py
+
+Please Download the following data [NOCS](https://github.com/hughw19/NOCS_CVPR2019).
 
 ## Training
 To train the model, please run:
